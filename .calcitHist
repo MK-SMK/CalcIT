@@ -1,0 +1,40 @@
+calc(5)
+calc(5)
+5+3
+1 << 1
+1 << 2
+((5*3) + 8) + 16
+((5*3) + 8) + 16
+add(5, 3)
+add(5, 3)
+add(5, 3)
+add(5, 3)
+test(abc, def)
+test(abc, def)
+add(5, 3)
+add(5, 3)
+add(5, 3)
+exit()
+help()
+help
+info()
+exit()
+add(5, 3)
+test(abc, def)
+exit(a)
+exit()
+info()
+info(a)
+help(
+test(abc, def)
+test(abc, def)
+test(abc, def)
+info()
+test(abc, 1)
+test(abc, 1)
+test(abc, 1)
+exit()
+hep
+help()
+5*9
+b101+0x13
